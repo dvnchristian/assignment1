@@ -68,7 +68,7 @@
       </tr>
       <tr>
         <td>Length of Stay (days)</td>
-        <td><input type="number" name="lengthOfStay" ></input></td>
+        <td><input type="number" name="lengthOfStay" min="1"></input></td>
       </tr>
       <tr>
         <td>Room Type</td>

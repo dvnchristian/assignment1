@@ -19,7 +19,10 @@
     <br>
     <hr>
 
-    <h3 align:"center"> BOOK ROOM </h3>
+    <h3 align="center">BOOK ROOM </h3>
+    <br>
+    <br>
+    <h4 align="center">Your Booking Has Successfully Saved</h4>
 
     <div id="Footer">
       <footer>©2017 Pramana Experience - All Rights Reserved.</footer>
